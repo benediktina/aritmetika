@@ -22,7 +22,7 @@ int main (int argc, char const *argv[])
     int x=10, y=5;
 
 	    cout << "Sveika aritmetika!"<<endl;
-	    cout<<"x+y="<<liekana(x,y)<<endl;
+	    cout<<"x+y="<<sudetis(x,y)<<endl;
         cout<<"x-y="<<atimtis(x,y)<<endl;
         cout<<"x*y="<<daugyba(x,y)<<endl;
         cout<<"x/y="<<dalyba(x,y)<<endl;
